@@ -1,4 +1,4 @@
-Here’s a plug‑and‑play prompt you can paste before any coding request to get meticulous, verified, minimal‑change help.
+.
 
 Ideal Prompt for Coding (thorough, verified, minimal edits)
 
@@ -50,7 +50,3 @@ Style & tone
 
 My task:
 <insert your exact task, code snippets, file paths, logs/errors, and any policies/constraints here>
-
-⸻
-
-How to use: Paste the prompt, fill My task, and let the assistant ask the blocking questions. Once assumptions are verified, you’ll get a tiny, auditable diff, tests, and a step‑by‑step validation script—nothing more.
